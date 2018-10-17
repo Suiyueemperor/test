@@ -1,0 +1,4 @@
+eclipse官方语言包地址：http://www.eclipse.org/babel/downloads.php
+install中点击add: http://download.eclipse.org/technology/babel/update-site/R0.16.0/photon/
+选择eclipse中下拉的simple（简体）
+
